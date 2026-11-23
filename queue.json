@@ -1,296 +1,604 @@
 {
-  "account": "hardwonhours",
-  "time_zurich": "07:00",
-  "posts": [
-    {
-      "id": "001",
-      "date": "2026-10-26",
-      "type": "image",
-      "files": [
-        "posts/001.jpg"
-      ],
-      "caption": "Nobody claps for the 5 a.m. version of you.\n\nNo crowd. No highlight reel. Just the alarm, the cold floor and a choice.\n\nDo it anyway. That's where it gets built.\n\nSave this for your next early start.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "002",
-      "date": "2026-10-28",
-      "type": "carousel",
-      "files": [
-        "posts/002-1.jpg",
-        "posts/002-2.jpg",
-        "posts/002-3.jpg",
-        "posts/002-4.jpg",
-        "posts/002-5.jpg",
-        "posts/002-6.jpg",
-        "posts/002-7.jpg"
-      ],
-      "caption": "5 rules for hard-won hours.\n\nSwipe through, pick the one you break most, and fix it today.\n\nWhich number is hardest for you? Drop it below.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "003",
-      "date": "2026-10-30",
-      "type": "image",
-      "files": [
-        "posts/003.jpg"
-      ],
-      "caption": "Hard days count double.\n\nAnyone shows up when they feel good. The days you don't want to are the ones that separate you.\n\nTag someone who shows up anyway.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "004",
-      "date": "2026-11-02",
-      "type": "image",
-      "files": [
-        "posts/004.jpg"
-      ],
-      "caption": "Comfort is a slow leak.\n\nOne skipped session. One extra snooze. One 'tomorrow'. None of it feels like losing. All of it adds up.\n\nPlug it today.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "005",
-      "date": "2026-11-04",
-      "type": "carousel",
-      "files": [
-        "posts/005-1.jpg",
-        "posts/005-2.jpg",
-        "posts/005-3.jpg",
-        "posts/005-4.jpg",
-        "posts/005-5.jpg",
-        "posts/005-6.jpg"
-      ],
-      "caption": "4 lies that keep you average.\n\nWe've all told them. The difference is whether you still believe them.\n\nWhich one did you tell yourself this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "006",
-      "date": "2026-11-06",
-      "type": "reel",
-      "files": [
-        "posts/006.jpg"
-      ],
-      "caption": "Win the morning. Then win it again tomorrow.\n\nOne great day changes nothing. A hundred decent ones change everything.\n\nStreaks beat sprints.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "006-reel.mp4",
-      "cover": "006-cover.jpg"
-    },
-    {
-      "id": "007",
-      "date": "2026-11-09",
-      "type": "reel",
-      "files": [
-        "posts/007.jpg"
-      ],
-      "caption": "Your excuses are well trained.\n\nYou've practised them for years. They're fast, they're convincing, and they always win.\n\nTrain something else.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "007-reel.mp4",
-      "cover": "007-cover.jpg"
-    },
-    {
-      "id": "008",
-      "date": "2026-11-10",
-      "type": "carousel",
-      "files": [
-        "posts/008-1.jpg",
-        "posts/008-2.jpg",
-        "posts/008-3.jpg",
-        "posts/008-4.jpg",
-        "posts/008-5.jpg",
-        "posts/008-6.jpg"
-      ],
-      "caption": "How to keep going when it gets boring.\n\nThe exciting part ends fast. What's left is the part that actually works.\n\nSave this for when you need it.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
-    },
-    {
-      "id": "009",
-      "date": "2026-11-11",
-      "type": "reel",
-      "files": [
-        "posts/009.jpg"
-      ],
-      "caption": "Quiet work. Loud results.\n\nYou don't need to announce the plan. Let the results do the talking.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "009-reel.mp4",
-      "cover": "009-cover.jpg"
-    },
-    {
-      "id": "010",
-      "date": "2026-11-12",
-      "type": "reel",
-      "files": [
-        "posts/010.jpg"
-      ],
-      "caption": "Don't wish it were easier.\n\nIt won't get easier. You get harder to break.\n\nThat's the whole deal.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "010-reel.mp4",
-      "cover": "010-cover.jpg"
-    },
-    {
-      "id": "011",
-      "date": "2026-11-13",
-      "type": "reel",
-      "files": [
-        "posts/011.jpg"
-      ],
-      "caption": "The version of you that wins is built on days like today.\n\nNot the big days. The ordinary, grey, nothing-special days.\n\nThis is one of them. Use it.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "011-reel.mp4",
-      "cover": "011-cover.jpg"
-    },
-    {
-      "id": "012",
-      "date": "2026-11-14",
-      "type": "reel",
-      "files": [
-        "posts/012.jpg"
-      ],
-      "caption": "Earn the hours. Then earn them again.\n\nNo shortcut, no hack, no secret. Just hours, stacked.\n\nHard won. Kept forever.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "012-reel.mp4",
-      "cover": "012-cover.jpg"
-    },
-    {
-      "id": "013",
-      "date": "2026-11-15",
-      "type": "reel",
-      "files": [
-        "posts/013.jpg"
-      ],
-      "caption": "Motivation visits. Discipline stays.\n\nWaiting to feel ready is a plan to wait forever. Build the habit that shows up without being asked.\n\nWhat do you do even when you don't feel like it?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "013-reel.mp4",
-      "cover": "013-cover.jpg"
-    },
-    {
-      "id": "014",
-      "date": "2026-11-16",
-      "type": "reel",
-      "files": [
-        "posts/014.jpg"
-      ],
-      "caption": "Do it tired.\n\nPerfect conditions almost never come. The reps you do on a bad day are the ones that build you.\n\nWhat did you get done tired this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "014-reel.mp4",
-      "cover": "014-cover.jpg"
-    },
-    {
-      "id": "015",
-      "date": "2026-11-17",
-      "type": "reel",
-      "files": [
-        "posts/015.jpg"
-      ],
-      "caption": "Small. Daily. Forever.\n\nYou don't need a new plan on Monday. You need a small one you never drop.\n\nWhat's your one small daily non-negotiable?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "015-reel.mp4",
-      "cover": "015-cover.jpg"
-    },
-    {
-      "id": "016",
-      "date": "2026-11-18",
-      "type": "reel",
-      "files": [
-        "posts/016.jpg"
-      ],
-      "caption": "Goals set the direction. Habits do the driving.\n\nEveryone has goals. The difference is what you do at 6 a.m. on a Tuesday.\n\nWhich habit is driving your week right now?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "016-reel.mp4",
-      "cover": "016-cover.jpg"
-    },
-    {
-      "id": "017",
-      "date": "2026-11-19",
-      "type": "reel",
-      "files": [
-        "posts/017.jpg"
-      ],
-      "caption": "The alarm is the first rep.\n\nLose the first decision and the rest get harder. Win it and you've already started.\n\nWhat time does your alarm go off?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "017-reel.mp4",
-      "cover": "017-cover.jpg"
-    },
-    {
-      "id": "018",
-      "date": "2026-11-20",
-      "type": "reel",
-      "files": [
-        "posts/018.jpg"
-      ],
-      "caption": "Be the one who didn't skip.\n\nTired, busy, cold, not in the mood. Everyone had a reason. Be the exception.\n\nTag someone who never skips.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "018-reel.mp4",
-      "cover": "018-cover.jpg"
-    },
-    {
-      "id": "019",
-      "date": "2026-11-21",
-      "type": "reel",
-      "files": [
-        "posts/019.jpg"
-      ],
-      "caption": "Feelings are not a schedule.\n\nIf it only happens when you feel like it, it doesn't really happen.\n\nWhat's the one thing you've stopped negotiating with yourself about?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "019-reel.mp4",
-      "cover": "019-cover.jpg"
-    },
-    {
-      "id": "020",
-      "date": "2026-11-22",
-      "type": "reel",
-      "files": [
-        "posts/020.jpg"
-      ],
-      "caption": "No one is coming. Start.\n\nNobody is going to do it for you. That means nobody can take it from you either.\n\nWhat are you starting today?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "020-reel.mp4",
-      "cover": "020-cover.jpg"
-    },
-    {
-      "id": "021",
-      "date": "2026-11-23",
-      "type": "reel",
-      "files": [
-        "posts/021.jpg"
-      ],
-      "caption": "Boring is the price. Pay it.\n\nResults are built from the same dull reps everyone else quits on.\n\nWhat's the most boring thing that's working for you?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "021-reel.mp4",
-      "cover": "021-cover.jpg"
-    },
-    {
-      "id": "022",
-      "date": "2026-11-24",
-      "type": "reel",
-      "files": [
-        "posts/022.jpg"
-      ],
-      "caption": "Day 1 is easy. Day 41 decides it.\n\nDay 1 has the hype. Day 41 has nothing but you and the habit. That's where most people quit.\n\nWhat day are you on?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "022-reel.mp4",
-      "cover": "022-cover.jpg"
-    },
-    {
-      "id": "023",
-      "date": "2026-11-25",
-      "type": "reel",
-      "files": [
-        "posts/023.jpg"
-      ],
-      "caption": "Your phone can wait. Your future can't.\n\nThe first scroll of the day is a decision about who gets your attention.\n\nHow long before you check your phone in the morning?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "023-reel.mp4",
-      "cover": "023-cover.jpg"
-    },
-    {
-      "id": "024",
-      "date": "2026-11-26",
-      "type": "reel",
-      "files": [
-        "posts/024.jpg"
-      ],
-      "caption": "Earn the rest.\n\nThe couch after a hard session hits different than the couch instead of one.\n\nWhat do you finish before you let yourself switch off?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "024-reel.mp4",
-      "cover": "024-cover.jpg"
-    },
-    {
-      "id": "025",
-      "date": "2026-11-27",
-      "type": "reel",
-      "files": [
-        "posts/025.jpg"
-      ],
-      "caption": "Discomfort is the entry fee.\n\nThere's no version of this where it doesn't feel hard. Accept that and it gets lighter.\n\nWhat's the uncomfortable thing you did this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "025-reel.mp4",
-      "cover": "025-cover.jpg"
-    },
-    {
-      "id": "026",
-      "date": "2026-11-28",
-      "type": "reel",
-      "files": [
-        "posts/026.jpg"
-      ],
-      "caption": "Show up ugly. Show up anyway.\n\nNot every day will look good. It only has to happen.\n\nWhat's your worst-day minimum?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
-      "video": "026-reel.mp4",
-      "cover": "026-cover.jpg"
-    }
-  ]
+ "account": "hardwonhours",
+ "time_zurich": "07:00",
+ "posts": [
+  {
+   "id": "001",
+   "date": "2026-10-26",
+   "type": "image",
+   "files": [
+    "posts/001.jpg"
+   ],
+   "caption": "Nobody claps for the 5 a.m. version of you.\n\nNo crowd. No highlight reel. Just the alarm, the cold floor and a choice.\n\nDo it anyway. That's where it gets built.\n\nSave this for your next early start.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "002",
+   "date": "2026-10-28",
+   "type": "carousel",
+   "files": [
+    "posts/002-1.jpg",
+    "posts/002-2.jpg",
+    "posts/002-3.jpg",
+    "posts/002-4.jpg",
+    "posts/002-5.jpg",
+    "posts/002-6.jpg",
+    "posts/002-7.jpg"
+   ],
+   "caption": "5 rules for hard-won hours.\n\nSwipe through, pick the one you break most, and fix it today.\n\nWhich number is hardest for you? Drop it below.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "003",
+   "date": "2026-10-30",
+   "type": "image",
+   "files": [
+    "posts/003.jpg"
+   ],
+   "caption": "Hard days count double.\n\nAnyone shows up when they feel good. The days you don't want to are the ones that separate you.\n\nTag someone who shows up anyway.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "004",
+   "date": "2026-11-02",
+   "type": "image",
+   "files": [
+    "posts/004.jpg"
+   ],
+   "caption": "Comfort is a slow leak.\n\nOne skipped session. One extra snooze. One 'tomorrow'. None of it feels like losing. All of it adds up.\n\nPlug it today.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "005",
+   "date": "2026-11-04",
+   "type": "carousel",
+   "files": [
+    "posts/005-1.jpg",
+    "posts/005-2.jpg",
+    "posts/005-3.jpg",
+    "posts/005-4.jpg",
+    "posts/005-5.jpg",
+    "posts/005-6.jpg"
+   ],
+   "caption": "4 lies that keep you average.\n\nWe've all told them. The difference is whether you still believe them.\n\nWhich one did you tell yourself this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "006",
+   "date": "2026-11-06",
+   "type": "reel",
+   "files": [
+    "posts/006.jpg"
+   ],
+   "caption": "Win the morning. Then win it again tomorrow.\n\nOne great day changes nothing. A hundred decent ones change everything.\n\nStreaks beat sprints.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "006-reel.mp4",
+   "cover": "006-cover.jpg"
+  },
+  {
+   "id": "007",
+   "date": "2026-11-09",
+   "type": "reel",
+   "files": [
+    "posts/007.jpg"
+   ],
+   "caption": "Your excuses are well trained.\n\nYou've practised them for years. They're fast, they're convincing, and they always win.\n\nTrain something else.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "007-reel.mp4",
+   "cover": "007-cover.jpg"
+  },
+  {
+   "id": "008",
+   "date": "2026-11-10",
+   "type": "carousel",
+   "files": [
+    "posts/008-1.jpg",
+    "posts/008-2.jpg",
+    "posts/008-3.jpg",
+    "posts/008-4.jpg",
+    "posts/008-5.jpg",
+    "posts/008-6.jpg"
+   ],
+   "caption": "How to keep going when it gets boring.\n\nThe exciting part ends fast. What's left is the part that actually works.\n\nSave this for when you need it.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff"
+  },
+  {
+   "id": "009",
+   "date": "2026-11-11",
+   "type": "reel",
+   "files": [
+    "posts/009.jpg"
+   ],
+   "caption": "Quiet work. Loud results.\n\nYou don't need to announce the plan. Let the results do the talking.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "009-reel.mp4",
+   "cover": "009-cover.jpg"
+  },
+  {
+   "id": "010",
+   "date": "2026-11-12",
+   "type": "reel",
+   "files": [
+    "posts/010.jpg"
+   ],
+   "caption": "Don't wish it were easier.\n\nIt won't get easier. You get harder to break.\n\nThat's the whole deal.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "010-reel.mp4",
+   "cover": "010-cover.jpg"
+  },
+  {
+   "id": "011",
+   "date": "2026-11-13",
+   "type": "reel",
+   "files": [
+    "posts/011.jpg"
+   ],
+   "caption": "The version of you that wins is built on days like today.\n\nNot the big days. The ordinary, grey, nothing-special days.\n\nThis is one of them. Use it.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "011-reel.mp4",
+   "cover": "011-cover.jpg"
+  },
+  {
+   "id": "012",
+   "date": "2026-11-14",
+   "type": "reel",
+   "files": [
+    "posts/012.jpg"
+   ],
+   "caption": "Earn the hours. Then earn them again.\n\nNo shortcut, no hack, no secret. Just hours, stacked.\n\nHard won. Kept forever.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "012-reel.mp4",
+   "cover": "012-cover.jpg"
+  },
+  {
+   "id": "013",
+   "date": "2026-11-15",
+   "type": "reel",
+   "files": [
+    "posts/013.jpg"
+   ],
+   "caption": "Motivation visits. Discipline stays.\n\nWaiting to feel ready is a plan to wait forever. Build the habit that shows up without being asked.\n\nWhat do you do even when you don't feel like it?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "013-reel.mp4",
+   "cover": "013-cover.jpg"
+  },
+  {
+   "id": "014",
+   "date": "2026-11-16",
+   "type": "reel",
+   "files": [
+    "posts/014.jpg"
+   ],
+   "caption": "Do it tired.\n\nPerfect conditions almost never come. The reps you do on a bad day are the ones that build you.\n\nWhat did you get done tired this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "014-reel.mp4",
+   "cover": "014-cover.jpg"
+  },
+  {
+   "id": "015",
+   "date": "2026-11-17",
+   "type": "reel",
+   "files": [
+    "posts/015.jpg"
+   ],
+   "caption": "Small. Daily. Forever.\n\nYou don't need a new plan on Monday. You need a small one you never drop.\n\nWhat's your one small daily non-negotiable?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "015-reel.mp4",
+   "cover": "015-cover.jpg"
+  },
+  {
+   "id": "016",
+   "date": "2026-11-18",
+   "type": "reel",
+   "files": [
+    "posts/016.jpg"
+   ],
+   "caption": "Goals set the direction. Habits do the driving.\n\nEveryone has goals. The difference is what you do at 6 a.m. on a Tuesday.\n\nWhich habit is driving your week right now?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "016-reel.mp4",
+   "cover": "016-cover.jpg"
+  },
+  {
+   "id": "017",
+   "date": "2026-11-19",
+   "type": "reel",
+   "files": [
+    "posts/017.jpg"
+   ],
+   "caption": "The alarm is the first rep.\n\nLose the first decision and the rest get harder. Win it and you've already started.\n\nWhat time does your alarm go off?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "017-reel.mp4",
+   "cover": "017-cover.jpg"
+  },
+  {
+   "id": "018",
+   "date": "2026-11-20",
+   "type": "reel",
+   "files": [
+    "posts/018.jpg"
+   ],
+   "caption": "Be the one who didn't skip.\n\nTired, busy, cold, not in the mood. Everyone had a reason. Be the exception.\n\nTag someone who never skips.\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "018-reel.mp4",
+   "cover": "018-cover.jpg"
+  },
+  {
+   "id": "019",
+   "date": "2026-11-21",
+   "type": "reel",
+   "files": [
+    "posts/019.jpg"
+   ],
+   "caption": "Feelings are not a schedule.\n\nIf it only happens when you feel like it, it doesn't really happen.\n\nWhat's the one thing you've stopped negotiating with yourself about?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "019-reel.mp4",
+   "cover": "019-cover.jpg"
+  },
+  {
+   "id": "020",
+   "date": "2026-11-22",
+   "type": "reel",
+   "files": [
+    "posts/020.jpg"
+   ],
+   "caption": "No one is coming. Start.\n\nNobody is going to do it for you. That means nobody can take it from you either.\n\nWhat are you starting today?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "020-reel.mp4",
+   "cover": "020-cover.jpg"
+  },
+  {
+   "id": "021",
+   "date": "2026-11-23",
+   "type": "reel",
+   "files": [
+    "posts/021.jpg"
+   ],
+   "caption": "Boring is the price. Pay it.\n\nResults are built from the same dull reps everyone else quits on.\n\nWhat's the most boring thing that's working for you?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "021-reel.mp4",
+   "cover": "021-cover.jpg"
+  },
+  {
+   "id": "022",
+   "date": "2026-11-24",
+   "type": "reel",
+   "files": [
+    "posts/022.jpg"
+   ],
+   "caption": "Day 1 is easy. Day 41 decides it.\n\nDay 1 has the hype. Day 41 has nothing but you and the habit. That's where most people quit.\n\nWhat day are you on?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "022-reel.mp4",
+   "cover": "022-cover.jpg"
+  },
+  {
+   "id": "023",
+   "date": "2026-11-25",
+   "type": "reel",
+   "files": [
+    "posts/023.jpg"
+   ],
+   "caption": "Your phone can wait. Your future can't.\n\nThe first scroll of the day is a decision about who gets your attention.\n\nHow long before you check your phone in the morning?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "023-reel.mp4",
+   "cover": "023-cover.jpg"
+  },
+  {
+   "id": "024",
+   "date": "2026-11-26",
+   "type": "reel",
+   "files": [
+    "posts/024.jpg"
+   ],
+   "caption": "Earn the rest.\n\nThe couch after a hard session hits different than the couch instead of one.\n\nWhat do you finish before you let yourself switch off?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "024-reel.mp4",
+   "cover": "024-cover.jpg"
+  },
+  {
+   "id": "025",
+   "date": "2026-11-27",
+   "type": "reel",
+   "files": [
+    "posts/025.jpg"
+   ],
+   "caption": "Discomfort is the entry fee.\n\nThere's no version of this where it doesn't feel hard. Accept that and it gets lighter.\n\nWhat's the uncomfortable thing you did this week?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "025-reel.mp4",
+   "cover": "025-cover.jpg"
+  },
+  {
+   "id": "026",
+   "date": "2026-11-28",
+   "type": "reel",
+   "files": [
+    "posts/026.jpg"
+   ],
+   "caption": "Show up ugly. Show up anyway.\n\nNot every day will look good. It only has to happen.\n\nWhat's your worst-day minimum?\n.\n#discipline #mindset #selfdiscipline #consistency #hardwork #athletemindset #motivation #nodaysoff",
+   "video": "026-reel.mp4",
+   "cover": "026-cover.jpg"
+  },
+  {
+   "id": "027",
+   "date": "2026-11-29",
+   "type": "reel",
+   "files": [
+    "posts/027.jpg"
+   ],
+   "video": "027-reel.mp4",
+   "cover": "027-cover.jpg",
+   "caption": "5:30 a.m. Dark. Cold. Go anyway.\n\nNobody's watching at that hour. That's exactly why it counts.\n\nWhat time did your day start?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "028",
+   "date": "2026-11-30",
+   "type": "reel",
+   "files": [
+    "posts/028.jpg"
+   ],
+   "video": "028-reel.mp4",
+   "cover": "028-cover.jpg",
+   "caption": "You don't need more motivation. You need a minimum.\n\nMotivation comes and goes. A minimum you never drop keeps you moving on the worst days.\n\nWhat's your daily minimum?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "029",
+   "date": "2026-12-01",
+   "type": "reel",
+   "files": [
+    "posts/029.jpg"
+   ],
+   "video": "029-reel.mp4",
+   "cover": "029-cover.jpg",
+   "caption": "Tired? Good. Now it counts.\n\nThe fresh days are easy. The tired ones are where the gap opens up.\n\nWhat did you get done tired this week?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "030",
+   "date": "2026-12-02",
+   "type": "reel",
+   "files": [
+    "posts/030.jpg"
+   ],
+   "video": "030-reel.mp4",
+   "cover": "030-cover.jpg",
+   "caption": "Day 100: different person.\n\nAlmost everyone quits between day 10 and day 30. Be the one still there on day 100.\n\nWhat day are you on?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "031",
+   "date": "2026-12-03",
+   "type": "reel",
+   "files": [
+    "posts/031.jpg"
+   ],
+   "video": "031-reel.mp4",
+   "cover": "031-cover.jpg",
+   "caption": "No mood. No energy. No time. Still did it.\n\nThere will always be a reason. The habit is doing it with the reason still there.\n\nWhat did you do anyway today?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "032",
+   "date": "2026-12-04",
+   "type": "reel",
+   "files": [
+    "posts/032.jpg"
+   ],
+   "video": "032-reel.mp4",
+   "cover": "032-cover.jpg",
+   "caption": "Motivation is a feeling. Discipline is a decision.\n\nStop waiting to feel it. Decide once, then follow the decision.\n\nWhat have you decided that you no longer debate?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "033",
+   "date": "2026-12-05",
+   "type": "reel",
+   "files": [
+    "posts/033.jpg"
+   ],
+   "video": "033-reel.mp4",
+   "cover": "033-cover.jpg",
+   "caption": "One rep. One page. One mile. Every day.\n\nIt doesn't need to be big. It needs to be daily.\n\nWhat's your one thing?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "034",
+   "date": "2026-12-06",
+   "type": "reel",
+   "files": [
+    "posts/034.jpg"
+   ],
+   "video": "034-reel.mp4",
+   "cover": "034-cover.jpg",
+   "caption": "The snooze button is a vote.\n\nEvery morning starts with a choice. Make the first one count.\n\nWhat time does your alarm go off?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "035",
+   "date": "2026-12-07",
+   "type": "reel",
+   "files": [
+    "posts/035.jpg"
+   ],
+   "video": "035-reel.mp4",
+   "cover": "035-cover.jpg",
+   "caption": "Nobody saw it. It still counted.\n\nThe work nobody sees is the work that shows up later.\n\nWhat did you do today that nobody saw?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "036",
+   "date": "2026-12-08",
+   "type": "reel",
+   "files": [
+    "posts/036.jpg"
+   ],
+   "video": "036-reel.mp4",
+   "cover": "036-cover.jpg",
+   "caption": "Skipped yesterday? Then today matters double.\n\nMissing once happens. Don't let it turn into a streak.\n\nAre you back on it today?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "037",
+   "date": "2026-12-09",
+   "type": "reel",
+   "files": [
+    "posts/037.jpg"
+   ],
+   "video": "037-reel.mp4",
+   "cover": "037-cover.jpg",
+   "caption": "Rain. Wind. Zero degrees. Session's still on.\n\nWinter sorts people out fast. Be the one still training in January.\n\nIndoors or outdoors today?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "038",
+   "date": "2026-12-10",
+   "type": "reel",
+   "files": [
+    "posts/038.jpg"
+   ],
+   "video": "038-reel.mp4",
+   "cover": "038-cover.jpg",
+   "caption": "Stop waiting for Monday.\n\nThe perfect start date doesn't exist. The next hour does.\n\nWhat are you starting in the next hour?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "039",
+   "date": "2026-12-11",
+   "type": "reel",
+   "files": [
+    "posts/039.jpg"
+   ],
+   "video": "039-reel.mp4",
+   "cover": "039-cover.jpg",
+   "caption": "It's hard because it's worth it.\n\nIf it felt easy, everyone would have it.\n\nWhat's the hard thing you're working on?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "040",
+   "date": "2026-12-12",
+   "type": "reel",
+   "files": [
+    "posts/040.jpg"
+   ],
+   "video": "040-reel.mp4",
+   "cover": "040-cover.jpg",
+   "caption": "Same alarm. Same session. Different results.\n\nNothing exciting about it. That's why it works.\n\nWhat's your most boring habit that's working?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "041",
+   "date": "2026-12-13",
+   "type": "reel",
+   "files": [
+    "posts/041.jpg"
+   ],
+   "video": "041-reel.mp4",
+   "cover": "041-cover.jpg",
+   "caption": "Your phone got your best hour. Take it back.\n\nThe first hour sets the tone. Don't hand it to a feed.\n\nWhat's the first thing you do in the morning?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "042",
+   "date": "2026-12-14",
+   "type": "reel",
+   "files": [
+    "posts/042.jpg"
+   ],
+   "video": "042-reel.mp4",
+   "cover": "042-cover.jpg",
+   "caption": "Talent gets you noticed. Habits get you there.\n\nPlenty of talented people never arrive. Habits are the difference.\n\nWhich habit is carrying you right now?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "043",
+   "date": "2026-12-15",
+   "type": "reel",
+   "files": [
+    "posts/043.jpg"
+   ],
+   "video": "043-reel.mp4",
+   "cover": "043-cover.jpg",
+   "caption": "You won't feel ready. Start unready.\n\nWaiting for ready is just waiting.\n\nWhat are you starting before you feel ready?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "044",
+   "date": "2026-12-16",
+   "type": "reel",
+   "files": [
+    "posts/044.jpg"
+   ],
+   "video": "044-reel.mp4",
+   "cover": "044-cover.jpg",
+   "caption": "Bad day? Do the minimum. Keep the streak.\n\nOn bad days the goal isn't a great session. It's not breaking the chain.\n\nWhat's your bad-day minimum?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "045",
+   "date": "2026-12-17",
+   "type": "reel",
+   "files": [
+    "posts/045.jpg"
+   ],
+   "video": "045-reel.mp4",
+   "cover": "045-cover.jpg",
+   "caption": "Everyone wants the result. Few want the reps.\n\nThe result is the easy part to want.\n\nWhat are you putting reps into right now?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "046",
+   "date": "2026-12-18",
+   "type": "reel",
+   "files": [
+    "posts/046.jpg"
+   ],
+   "video": "046-reel.mp4",
+   "cover": "046-cover.jpg",
+   "caption": "Everyone's waiting for January. Start now.\n\nEveryone else starts on January 1st. Be a month in by then.\n\nWhat are you starting before the new year?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "047",
+   "date": "2026-12-19",
+   "type": "reel",
+   "files": [
+    "posts/047.jpg"
+   ],
+   "video": "047-reel.mp4",
+   "cover": "047-cover.jpg",
+   "caption": "Comfort says tomorrow. Discipline says now.\n\nTomorrow is the most comfortable word there is.\n\nWhat have you been putting off until tomorrow?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "048",
+   "date": "2026-12-20",
+   "type": "reel",
+   "files": [
+    "posts/048.jpg"
+   ],
+   "video": "048-reel.mp4",
+   "cover": "048-cover.jpg",
+   "caption": "Easy now, hard later. Or the other way round.\n\nDiscomfort now or regret later. Pick the one you can live with.\n\nWhich one are you choosing today?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "049",
+   "date": "2026-12-21",
+   "type": "reel",
+   "files": [
+    "posts/049.jpg"
+   ],
+   "video": "049-reel.mp4",
+   "cover": "049-cover.jpg",
+   "caption": "Nobody remembers the easy sessions.\n\nThe sessions you almost skipped are the ones you'll be proud of.\n\nWhat was your hardest session this month?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "050",
+   "date": "2026-12-22",
+   "type": "reel",
+   "files": [
+    "posts/050.jpg"
+   ],
+   "video": "050-reel.mp4",
+   "cover": "050-cover.jpg",
+   "caption": "Holidays. Family. Food. 15 minutes still fits.\n\nEnjoy it all. Just don't drop the habit completely.\n\nWhat's your holiday minimum?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "051",
+   "date": "2026-12-23",
+   "type": "reel",
+   "files": [
+    "posts/051.jpg"
+   ],
+   "video": "051-reel.mp4",
+   "cover": "051-cover.jpg",
+   "caption": "Rest is earned. Not assumed.\n\nRest is part of the plan, not a break from it.\n\nWhen is your next rest day?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "052",
+   "date": "2026-12-24",
+   "type": "reel",
+   "files": [
+    "posts/052.jpg"
+   ],
+   "video": "052-reel.mp4",
+   "cover": "052-cover.jpg",
+   "caption": "Progress is quiet. Keep going anyway.\n\nMost progress is invisible until suddenly it isn't.\n\nWhat's quietly getting better for you?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "053",
+   "date": "2026-12-25",
+   "type": "reel",
+   "files": [
+    "posts/053.jpg"
+   ],
+   "video": "053-reel.mp4",
+   "cover": "053-cover.jpg",
+   "caption": "2026 is almost done. Finish it strong.\n\nDon't coast into the new year. Finish the one you're in.\n\nHow are you finishing the year?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  },
+  {
+   "id": "054",
+   "date": "2026-12-26",
+   "type": "reel",
+   "files": [
+    "posts/054.jpg"
+   ],
+   "video": "054-reel.mp4",
+   "cover": "054-cover.jpg",
+   "caption": "Don't wait for a new year. Be new by then.\n\nJanuary 1st is just another day. Use the ones before it.\n\nWhat's one thing you'll have done by January 1st?\n.\n#discipline #selfdiscipline #mindset #consistency #motivation"
+  }
+ ]
 }
